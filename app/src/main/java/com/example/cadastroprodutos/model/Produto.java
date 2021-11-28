@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Produto implements Serializable {
     private Long id;
     private String nome;
-    private Integer valor;
+    private int valor;
 
     public String toString(){
         return "Id: " + id + "\n" + "nome: " + nome.toString() + "\n" + "R$: " + getValor();

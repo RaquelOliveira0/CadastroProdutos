@@ -52,7 +52,7 @@ public class AdicionarProdutos extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 produto.setNome(nome_produto.getText().toString());
-                produto.setValor(Integer.parseInt(valor_produto.getText().toString()));
+                produto.setValor((int) Float.parseFloat(valor_produto.getText().toString()));
 
                 if(btn_salvar.getText().toString().equals("Adicionar")){
                     bdHelper.salvarProduto(produto);
