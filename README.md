@@ -16,7 +16,7 @@ Para editar o produto é só clicar sobre o item da list view que deseja editar,
 
 <img src="https://user-images.githubusercontent.com/28407757/143725843-966a2dd2-4240-4dfb-b9f6-5e496a9db50a.png" width="250" height="400">
 
-<img src="https://user-images.githubusercontent.com/28407757/143725878-c651c947-b6d9-409b-b72d-3d903afd0b5e.png)width="250" height="400">
+<img src="https://user-images.githubusercontent.com/28407757/143725878-c651c947-b6d9-409b-b72d-3d903afd0b5e.png" width="250" height="400">
 
 
 
