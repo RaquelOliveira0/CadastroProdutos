@@ -1,5 +1,8 @@
 # CadastroProdutos
-Trabalho realizado para a disciplina de Desenvolvimento de software para dispositos movéis. A seguir são apresentadas as telas e os componentes presentes.
+Trabalho realizado para a disciplina de Desenvolvimento de software para dispositos movéis. 
+
+
+A seguir são apresentadas as telas e os componentes presentes.
 
 Tela com o botão de cadastro na qual o usuário é redirecionado para a segunda tela ao clicar no botão
 <img src="https://user-images.githubusercontent.com/28407757/143724720-810fb38c-ef23-427e-b154-558e8e6cada6.png" width="250" height="400">
