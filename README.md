@@ -8,11 +8,11 @@ Tela com o botão de cadastro na qual o usuário é redirecionado para a Activit
 
 <img src="https://user-images.githubusercontent.com/28407757/143724720-810fb38c-ef23-427e-b154-558e8e6cada6.png" width="250" height="400">
 
-Tela de adiconar e remover produtos
+Tela de adiconar e editar produtos:
 
 <img src="https://user-images.githubusercontent.com/28407757/143724715-81bd562c-3e0a-4da8-96b5-5bacdfe30796.PNG" width="250" height="400">
 
-Para editar o produto é só clicar sobre o item da list view que deseja editar o usuário é direcionado para a tela de cadastro, o botão apresenta o texto editar, uma vez que o usuário não vai realizar o cadastro.
+Para editar o produto é só clicar sobre o item da list view que deseja editar o usuário é direcionado para a tela de cadastro, o botão apresenta o texto editar, uma vez que o usuário não vai realizar o cadastro:
 
 <img src="https://user-images.githubusercontent.com/28407757/143725843-966a2dd2-4240-4dfb-b9f6-5e496a9db50a.png" width="250" height="400">
 
