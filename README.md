@@ -12,7 +12,7 @@ Tela de adiconar e editar produtos:
 
 <img src="https://user-images.githubusercontent.com/28407757/143724715-81bd562c-3e0a-4da8-96b5-5bacdfe30796.PNG" width="250" height="400">
 
-Para editar o produto é só clicar sobre o item da list view que deseja editar o usuário é direcionado para a tela de cadastro, o botão apresenta o texto editar, uma vez que o usuário não vai realizar o cadastro:
+Para editar o produto é só clicar sobre o item da list view que deseja editar, o usuário 	Activity	02, o botão apresenta o texto editar, uma vez que o usuário não vai realizar o cadastro:
 
 <img src="https://user-images.githubusercontent.com/28407757/143725843-966a2dd2-4240-4dfb-b9f6-5e496a9db50a.png" width="250" height="400">
 
