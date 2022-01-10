@@ -1,6 +1,6 @@
 # CadastroProdutos
 Trabalho realizado para a disciplina de Desenvolvimento de software para dispositos movéis. 
-Para a entrega 3 Introdução uso de servidor foram incrementadas a funcionalidades de exlução e o banco de dados utilizado foi o SQlLite.
+Para a entrega 3 Introdução uso de servidor foram incrementadas a funcionalidades de exclução e o banco de dados utilizado foi o SQlLite.
 
 
 
