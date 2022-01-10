@@ -22,6 +22,8 @@ public class ProdutosBD extends SQLiteOpenHelper {
         super(context,DATABASE,null,VERSION);
     }
 
+
+
     @Override
     public void onCreate(SQLiteDatabase db) {
         String produto = "CREATE TABLE produtos(Id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL ,nome TEXT NOT NULL, valor INTEGER  NOT NULL)";
@@ -51,6 +53,12 @@ public class ProdutosBD extends SQLiteOpenHelper {
 
         String [] args = {produto.getId().toString()};
         getWritableDatabase().update("produtos", values,"id=?",args);
+
+    }
+
+    public void deletarProduto(Produto produto){
+        String [] args = {produto.getId().toString()};
+        getWritableDatabase().delete("produtos","id=?",args);
 
     }
 
