@@ -1,5 +1,7 @@
 # CadastroProdutos
 Trabalho realizado para a disciplina de Desenvolvimento de software para dispositos movéis. 
+Para a entrega 3 Introdução uso de servidor foram incrementadas a funcionalidades de exlução e o banco de dados utilizado foi o SQlLite.
+
 
 
 A seguir são apresentadas as telas e os componentes presentes:
@@ -18,7 +20,7 @@ Para editar o produto é só clicar sobre o item da list view que deseja editar,
 
 <img src="https://user-images.githubusercontent.com/28407757/143725878-c651c947-b6d9-409b-b72d-3d903afd0b5e.png" width="250" height="400">
 
-
-
+Para excluir o produto deve-se clicar no item que o usuário deseja excluir.
+<img src="https://user-images.githubusercontent.com/28407757/148709115-d786f8d2-6e90-4697-b401-951691b03042.png width="250" height="400">
 
 
